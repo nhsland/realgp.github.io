@@ -11,7 +11,7 @@ email: info@code4health.org
 description: > # this means to ignore newlines until "baseurl:"
   Code4Health is an initiative supported by NHS England and NHS Digital to enable the best use of digital tools and technology to deliver safe, high quality, efficient and compassionate care
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://code4health.org" # the base hostname & protocol for your site
+url: "https://realgp.github.io/" # the base hostname & protocol for your site
 twitter_username: code4health
 github_username:  Apperta
 
