@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Code4HealthTM
+title: Real General Practice
 email: info@code4health.org
 description: > # this means to ignore newlines until "baseurl:"
-  Code4Health is an initiative supported by NHS England and NHS Digital to enable the best use of digital tools and technology to deliver safe, high quality, efficient and compassionate care
+  AN INNOVATIVE APPROACH TO IMPROVING CONSULTING SKILLS FOR GP'S, GP REGISTRARS AND MEDICAL STUDENTS
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://realgp.github.io/" # the base hostname & protocol for your site
 twitter_username: code4health
