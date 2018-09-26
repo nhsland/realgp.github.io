@@ -1,12 +1,12 @@
 ---
-permalink: "/Patients/"
+permalink: "/Clinicians/"
 layout: page
-title:  "Patients"
+title:  "Clinicians"
 ---
 
 <section class="bg-primary text-white" id="about">
       <div class="container text-center">
-        <h2 class="mb-4">Patient Resources</h2>
+        <h2 class="mb-4">Clinician Resources</h2>
         <p align="left">Insert page description</p>
 		
 		<p align="left">Add sub text if required</p><br>
@@ -14,7 +14,7 @@ title:  "Patients"
 </div>
 </section>
 
-<section id="patients">
+<section id="Clinicians">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -35,43 +35,43 @@ title:  "Patients"
             </tr>
         </thead>
         <tbody>
-        {% for patients in site.patients %}
+        {% for Clinicians in site.Clinicians %}
             <tr>
-                <td style="text-align:center; vertical-align:middle">{{ patients.category }}</td>
-                <td><p>{{ patients.description }}</p></td>
-                <td style="text-align:center; vertical-align:middle">{{ patients.audio }}</td>  <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1 }}</a><br>
-                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2 }}</a><br>
-                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3 }}</a><br>
+                <td style="text-align:center; vertical-align:middle">{{ Clinicians.category }}</td>
+                <td><p>{{ Clinicians.description }}</p></td>
+                <td style="text-align:center; vertical-align:middle">{{ Clinicians.audio }}</td>  <td style="text-align:center; vertical-align:middle">
+                <a href="{{ Clinicians.decision-aid1 }}">{{ Clinicians.decision-aid1 }}</a><br>
+                <a href="{{ Clinicians.decision-aid2 }}">{{ Clinicians.decision-aid2 }}</a><br>
+                <a href="{{ Clinicians.decision-aid3 }}">{{ Clinicians.decision-aid3 }}</a><br>
                 </td>    
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.www1 }}">{{ patients.www1 }}</a><br>
-                <a href="{{ patients.www2 }}">{{ patients.www2 }}</a><br>
-                <a href="{{ patients.www3 }}">{{ patients.www3 }}</a><br>
+                <a href="{{ Clinicians.www1 }}">{{ Clinicians.www1 }}</a><br>
+                <a href="{{ Clinicians.www2 }}">{{ Clinicians.www2 }}</a><br>
+                <a href="{{ Clinicians.www3 }}">{{ Clinicians.www3 }}</a><br>
                 </td>
                 <td style="text-align:center; vertical-align:middle">
-                {% if patients.forum == null %}
+                {% if Clinicians.forum == null %}
                 {% else %}
-                <a href="{{ patients.forum }}" target="_blank"><i class="fas fa-comments fa-2x"></i></a>
+                <a href="{{ Clinicians.forum }}" target="_blank"><i class="fas fa-comments fa-2x"></i></a>
                 {% endif %}
-                {% if patients.email == null %}
+                {% if Clinicians.email == null %}
                 {% else %}
-                <a href="mailto:{{ patients.email }}"><i class="fas fa-envelope fa-2x"></i></a>
+                <a href="mailto:{{ Clinicians.email }}"><i class="fas fa-envelope fa-2x"></i></a>
                 {% endif %}
-                {% if patients.twitter == null %}
+                {% if Clinicians.twitter == null %}
                 {% else %}
-                <a href="http://twitter.com/{{ patients.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="http://twitter.com/{{ Clinicians.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
                 {% endif %}
-                {% if patients.facebook == null %}
+                {% if Clinicians.facebook == null %}
                 {% else %}
-                <a href="{{ patients.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="{{ Clinicians.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
                 {% endif %}
-                {% if patients.youtube ==null %}
+                {% if Clinicians.youtube ==null %}
                 {% else %}
-                <a href="{{ patients.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+                <a href="{{ Clinicians.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
                 {% endif %}
                 </td>
-                <td>{{ patients.keywords }}</td>
+                <td>{{ Clinicians.keywords }}</td>
             </tr>
         {% endfor %}
     </tbody>

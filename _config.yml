@@ -16,8 +16,8 @@ twitter_username: code4health
 github_username:  Apperta
 
 collections:
- - communities
- - supporters
+ - patients
+ - clinicians
 
 gems:
   - jekyll-archives
