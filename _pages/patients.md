@@ -1,5 +1,5 @@
 ---
-permalink: "/Patients/"
+permalink: "/patients/"
 layout: page
 title:  "Patients"
 ---

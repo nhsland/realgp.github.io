@@ -1,5 +1,5 @@
 ---
-permalink: "/Clinicians/"
+permalink: "/clinicians/"
 layout: page
 title:  "Clinicians"
 ---
