@@ -7,7 +7,7 @@ title:  "Patients"
 <section class="bg-primary text-white" id="about">
       <div class="container text-center">
         <h2 class="mb-4">Patient Resources</h2>
-        <p align="left">Insert page description</p>
+        <p align="left">How often have you left the doctor's surgery thinking that you haven't</p>
 		
 		<p align="left">Add sub text if required</p><br>
 		<center><a class="btn btn-light btn-xl" href="mailto:info@code4health.org?Subject=%5BSuggest%20New%20Community%5D&Body=%5BName%5D%0A%5BRole%20%26%20Organisation%5D%0A%5BDetails%20of%20the%20community%20and%20its%20aims%5D%0A%5BRelevant%20social%20media%20feeds%5D%0A%5BAny%20relevant%20partners/community%20members%5D%0A%5BLinks%20to%20any%20code%20repositories%20%28if%20applicable%29%5D%0A">Suggest a Topic</a></center>
@@ -40,19 +40,19 @@ title:  "Patients"
                 <td style="text-align:center; vertical-align:middle">{{ patients.category }}</td>
                 <td><p>{{ patients.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.audio1 }}">{{patients.audio1}}</a><br>
-                <a href="{{ patients.audio2 }}">{{patients.audio2}}</a><br>
-                <a href="{{ patients.audio3 }}">{{patients.audio3}}</a><br>
+                <a href="{{ patients.audio1 }}">{{patients.audio1-desc }}</a><br>
+                <a href="{{ patients.audio2 }}">{{patients.audio2-desc }}</a><br>
+                <a href="{{ patients.audio3 }}">{{patients.audio3-desc }}</a><br>
                 </td>  
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1 }}</a><br>
-                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2 }}</a><br>
-                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3 }}</a><br>
+                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1-desc }}</a><br>
+                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2-desc }}</a><br>
+                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3-desc }}</a><br>
                 </td>    
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.www1 }}">{{ patients.www1 }}</a><br>
-                <a href="{{ patients.www2 }}">{{ patients.www2 }}</a><br>
-                <a href="{{ patients.www3 }}">{{ patients.www3 }}</a><br>
+                <a href="{{ patients.www1 }}">{{ patients.www1-desc }}</a><br>
+                <a href="{{ patients.www2 }}">{{ patients.www2-desc }}</a><br>
+                <a href="{{ patients.www3 }}">{{ patients.www3-desc }}</a><br>
                 </td>
                 <td style="text-align:center; vertical-align:middle">
                 {% if patients.forum == null %}
