@@ -30,50 +30,29 @@ title:  "Patients"
             <tr>
                 <th>Category</th>
                 <th>Description</th>
-                <th>Audio</th>
-				<th>Shared decision aids or articles</th>
-                <th>Useful Links</th>
-                <th>Social</th>
+                <th>Link</th>
                 <th>Key Words</th>
             </tr>
         </thead>
         <tbody>
         {% for patients in site.patients %}
             <tr>
-                <td style="text-align:center; vertical-align:middle">{{ patients.category }}</td>
+                <td style="text-align:center; vertical-align:middle"><a href="{{ patients.page }}">{{ patients.category }}</a></td>
                 <td><p>{{ patients.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.audio1 }}">{{patients.audio1-desc }}</a><br><br>
-                <a href="{{ patients.audio2 }}">{{patients.audio2-desc }}</a><br><br>
-                <a href="{{ patients.audio3 }}">{{patients.audio3-desc }}</a><br><br>
-                </td>  
+                {% if patients.audio == null %}
+                {% else %}
+                <a href="{{ patients.audio }}" target="_blank"><i class="fas fa-headphones fa-2x"></i></a>
+                {% endif %}
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1-desc }}</a><br><br>
-                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2-desc }}</a><br><br>
-                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3-desc }}</a><br><br>
-                </td>    
-                <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.www1 }}">{{ patients.www1-desc }}</a><br><br>
-                <a href="{{ patients.www2 }}">{{ patients.www2-desc }}</a><br><br>
-                <a href="{{ patients.www3 }}">{{ patients.www3-desc }}</a><br><br>
-                </td>
-                <td style="text-align:center; vertical-align:middle">
-                {% if patients.forum == null %}
+                {% if patients.article == null %}
                 {% else %}
-                <a href="{{ patients.forum }}" target="_blank"><i class="fas fa-comments fa-2x"></i></a>
+                <a href="{{ patients.article }}" target="_blank"><i class="fas fa-file-alt fa-2x"></i></a>
                 {% endif %}
-                {% if patients.email == null %}
+                {% if patients.www == null %}
                 {% else %}
-                <a href="mailto:{{ patients.email }}"><i class="fas fa-envelope fa-2x"></i></a>
-                {% endif %}
-                {% if patients.twitter == null %}
-                {% else %}
-                <a href="http://twitter.com/{{ patients.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-                {% endif %}
-                {% if patients.facebook == null %}
-                {% else %}
-                <a href="{{ patients.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
-                {% endif %}
+                <a href="{{ patients.www }}" target="_blank"><i class="fas fa-globe fa-2x"></i></a>
+                {% endif %} 
                 {% if patients.youtube ==null %}
                 {% else %}
                 <a href="{{ patients.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>

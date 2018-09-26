@@ -1,5 +1,6 @@
 ---
 category: Insomnia
+page: /insomnia/
 description: Epworth Sleepiness Scale
 audio: 
 article: 
