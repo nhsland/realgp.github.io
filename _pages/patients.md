@@ -39,7 +39,12 @@ title:  "Patients"
             <tr>
                 <td style="text-align:center; vertical-align:middle">{{ patients.category }}</td>
                 <td><p>{{ patients.description }}</p></td>
-                <td style="text-align:center; vertical-align:middle">{{ patients.audio }}</td>  <td style="text-align:center; vertical-align:middle">
+                <td style="text-align:center; vertical-align:middle">
+                <a href="{{ patients.audio1 }}">{{patients.audio1}}</a><br>
+                <a href="{{ patients.audio2 }}">{{patients.audio2}}</a><br>
+                <a href="{{ patients.audio3 }}">{{patients.audio3}}</a><br>
+                </td>  
+                <td style="text-align:center; vertical-align:middle">
                 <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1 }}</a><br>
                 <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2 }}</a><br>
                 <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3 }}</a><br>

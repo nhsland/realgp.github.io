@@ -39,7 +39,12 @@ title:  "Clinicians"
             <tr>
                 <td style="text-align:center; vertical-align:middle">{{ Clinicians.category }}</td>
                 <td><p>{{ Clinicians.description }}</p></td>
-                <td style="text-align:center; vertical-align:middle">{{ Clinicians.audio }}</td>  <td style="text-align:center; vertical-align:middle">
+                <td style="text-align:center; vertical-align:middle">
+                <a href="{{ Clinicians.audio1 }}">{{Clinicians.audio1}}</a><br>
+                <a href="{{ Clinicians.audio2 }}">{{Clinicians.audio2}}</a><br>
+                <a href="{{ Clinicians.audio3 }}">{{Clinicians.audio3}}</a><br>
+                </td>  
+                <td style="text-align:center; vertical-align:middle">
                 <a href="{{ Clinicians.decision-aid1 }}">{{ Clinicians.decision-aid1 }}</a><br>
                 <a href="{{ Clinicians.decision-aid2 }}">{{ Clinicians.decision-aid2 }}</a><br>
                 <a href="{{ Clinicians.decision-aid3 }}">{{ Clinicians.decision-aid3 }}</a><br>
