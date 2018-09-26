@@ -40,19 +40,19 @@ title:  "Patients"
                 <td style="text-align:center; vertical-align:middle">{{ patients.category }}</td>
                 <td><p>{{ patients.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.audio1 }}">{{patients.audio1}}</a><br>
-                <a href="{{ patients.audio2 }}">{{patients.audio2}}</a><br>
-                <a href="{{ patients.audio3 }}">{{patients.audio3}}</a><br>
+                <a href="{{ patients.audio1 }}">{{patients.audio1}}</a><br><br>
+                <a href="{{ patients.audio2 }}">{{patients.audio2}}</a><br><br>
+                <a href="{{ patients.audio3 }}">{{patients.audio3}}</a><br><br>
                 </td>  
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1 }}</a><br>
-                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2 }}</a><br>
-                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3 }}</a><br>
+                <a href="{{ patients.decision-aid1 }}">{{ patients.decision-aid1 }}</a><br><br>
+                <a href="{{ patients.decision-aid2 }}">{{ patients.decision-aid2 }}</a><br><br>
+                <a href="{{ patients.decision-aid3 }}">{{ patients.decision-aid3 }}</a><br><br>
                 </td>    
                 <td style="text-align:center; vertical-align:middle">
-                <a href="{{ patients.www1 }}">{{ patients.www1 }}</a><br>
-                <a href="{{ patients.www2 }}">{{ patients.www2 }}</a><br>
-                <a href="{{ patients.www3 }}">{{ patients.www3 }}</a><br>
+                <a href="{{ patients.www1 }}">{{ patients.www1 }}</a><br><br>
+                <a href="{{ patients.www2 }}">{{ patients.www2 }}</a><br><br>
+                <a href="{{ patients.www3 }}">{{ patients.www3 }}</a><br><br>
                 </td>
                 <td style="text-align:center; vertical-align:middle">
                 {% if patients.forum == null %}
