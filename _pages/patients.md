@@ -44,7 +44,6 @@ title:  "Patients"
                 {% else %}
                 <a href="{{ patients.audio }}" target="_blank"><i class="fas fa-headphones fa-2x"></i></a>
                 {% endif %}
-                <td style="text-align:center; vertical-align:middle">
                 {% if patients.article == null %}
                 {% else %}
                 <a href="{{ patients.article }}" target="_blank"><i class="fas fa-file-alt fa-2x"></i></a>
