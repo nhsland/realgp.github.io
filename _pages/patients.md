@@ -39,7 +39,6 @@ title:  "Patients"
             <tr>
                 <td style="text-align:center; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ patients.category-desc }}">{{ patients.category }}</a>
-                </div>
                 </td>
                 <td><p>{{ patients.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">
