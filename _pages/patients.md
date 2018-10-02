@@ -30,6 +30,7 @@ title:  "Patients"
         <thead>
             <tr>
                 <th>Category</th>
+                <th>Title</th>
                 <th>Description</th>
                 <th>Link</th>
                 <th>Key Words</th>
@@ -41,6 +42,8 @@ title:  "Patients"
                 <td style="text-align:center; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ patients.category-desc }}">{{ patients.category }}</a>
                 </td>
+                <td><p>{{ patients.category-desc }}</p></td>
+                <td style="text-align:center; vertical-align:middle">
                 <td><p>{{ patients.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">
                 {% if patients.audio == null %}
