@@ -7,6 +7,7 @@ title:  "Patients"
 <section class="bg-primary text-white" id="about">
       <div class="container text-center">
         <h2 class="mb-4">Patient Resources</h2>
+        <h3 class="mb-4">Choose the best option for YOU, with our help</h3>
         <p align="left">How often have you left the doctor’s surgery thinking that you haven’t had enough time to fully explore what is the best option to manage your problem? We are all individuals. We all make different decisions about what we are happy to do to keep healthy. </p>
         <p align="left">We still depend on doctors to help us to figure out what our illnesses are. And when we figure out what our illness is, we all need help to negotiate what types of treatment suit us best. What works best to help us to feel better or live longer? What are we prepared to do? Figuring all of this out takes time. Your 10 minute GP appointment rarely suffices. Let your doctor help you to decide what your problem is. Then, join me in bringing your choices to life.</p>
         <p align="left">I’ve had conversations with some of my patients about their choices, based on what I have discovered about their circumstances, values, fears and wishes. I present viable options to them based on the things that matter to them. Together, the patient and I can tailor potential treatment options to their condition or problem. I present extra evidence to help you, the listening audience, to make decisions that might suit you too.</p>
