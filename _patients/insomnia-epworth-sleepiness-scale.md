@@ -1,6 +1,6 @@
 ---
 category: Insomnia
-category-desc: Insomnia is a sleep disorder that is characterised by difficulty falling and/or staying asleep. People with insomnia have one or more of the following symptoms - Difficulty falling asleep; waking up often during the night and having trouble going back to sleep; or waking too early. There can be many causes of sleep problems. Sleep problems can be caused by physical illness, emotional factors or lifestyle factors such as too much coffee or tea, environmental factors like noisy streets, overcrowding or pollution or by a sleep disorder, such as sleep apnoea
+category-desc: The Epworth Sleepiness Scale (ESS) is a scale intended to measure daytime sleepiness that is measured by use of a very short questionnaire. This can be helpful in diagnosing sleep disorders. It was introduced in 1991 by Dr Murray Johns of Epworth Hospital in Melbourne, Australia.
 audio: 
 page: /insomnia/
 description: Epworth Sleepiness Scale

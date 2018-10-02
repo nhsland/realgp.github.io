@@ -1,6 +1,7 @@
 ---
 category: Insomnia
-category-desc: Insomnia is a sleep disorder that is characterised by difficulty falling and/or staying asleep. People with insomnia have one or more of the following symptoms - Difficulty falling asleep; waking up often during the night and having trouble going back to sleep; or waking too early. There can be many causes of sleep problems. Sleep problems can be caused by physical illness, emotional factors or lifestyle factors such as too much coffee or tea, environmental factors like noisy streets, overcrowding or pollution or by a sleep disorder, such as sleep apnoea
+category-desc:  Sleep Restriction is used to more closely match the amount of time you spend
+in bed with the amount of sleep your body is producing.  This document shows techniques to be used for sleep restriction
 audio: 
 description: Sleep Restriction
 article: /assets/publication/Sleep_Restriction.pdf
