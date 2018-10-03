@@ -1,6 +1,6 @@
 ---
-category: Insomnia
-category-desc: Dr Keith lists a number of factors and potential help tools to deal with Insomnia
+title: Insomnia
+description: Dr Keith lists a number of factors and potential help tools to deal with Insomnia
 audio: 
 description: Read Dr Keiths article on sleep
 article: /assets/publication/SleepArticle.pdf
