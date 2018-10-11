@@ -1,10 +1,10 @@
 ---
 category: Losing Weight
-category-desc: Shared decision options audio - Dr Keith Birrell with insomniac Neil
-audio: 
-description: Listen to Dr Keith Birrell guiding Neil to make informed decisions to improve his sleep
-article: /assets/audio/Mark-weight-RGP.mp3
+category-desc: Shared decision options audio. Dr Keith Birrell with Mark who wants to lose weight
+audio: /assets/audio/Mark-weight-RGP.mp3
+description: Listen to Dr Keith Birrell guiding Mark to make informed decisions to help him lose weight
+article: 
 www: 
-keywords: losing weight, obesity, audio, shared, decision, options, 
+keywords: Audio, shared decision options, lose weight, obesity, overweight, slimming, informed decision, low GI index, low GI diet, fast diet, five and two diet, 5 and 2 diet, Mediterranean diet, activity, activity monitor, pedometer, Health app
 youtube:
 --- 
