@@ -1,8 +1,8 @@
 ---
 category: Irritable bowel syndrome
-category-desc: Shared decision options audio. Dr Keith Birrell with Joanne who has Irritable bowel syndrome
-audio: 
+title: Shared decision options audio. Dr Keith Birrell with Joanne who has Irritable bowel syndrome
 description: Listen to Dr Keith Birrell guiding Joanne to make informed decisions to improve her irritable bowel symptoms
+audio: 
 article: 
 www: 
 keywords: Audio, shared decision options,
