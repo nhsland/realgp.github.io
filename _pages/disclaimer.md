@@ -35,7 +35,6 @@ title:  "Disclaimer"
 <p>I will listen to the materials provided and access written material when relevant.</p>   
 <p>The materials aim to help me to understand what might work for my future health.</p>   
 <p>I will then contact my own clinicians to decide on the next steps forward.</p>  
-</p>  
 		  </div>
 		 </div>
 		</div>
