@@ -14,77 +14,46 @@ title:  "Clinicians"
 </div>
 </section>
 
-<section id="Clinicians">
+<section id="services">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12">
-            <center><h2 class="section-heading">Patient Resources</h2>
-            <hr class="my-4"></center>
-
-  	<div style="overflow-x:auto;">	
-         <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
-        <thead>
-            <tr>
-                <th>Category</th>
-                <th>Description</th>
-                <th>Audio</th>
-				<th>Shared decision aids or articles</th>
-                <th>Useful Links</th>
-                <th>Social</th>
-                <th>Key Words</th>
-            </tr>
-        </thead>
-        <tbody>
-        {% for Clinicians in site.Clinicians %}
-            <tr>
-                <td style="text-align:center; vertical-align:middle">{{ Clinicians.category }}</td>
-                <td><p>{{ Clinicians.description }}</p></td>
-                <td style="text-align:center; vertical-align:middle">
-                <a href="{{ Clinicians.audio1 }}">{{Clinicians.audio1}}</a><br>
-                <a href="{{ Clinicians.audio2 }}">{{Clinicians.audio2}}</a><br>
-                <a href="{{ Clinicians.audio3 }}">{{Clinicians.audio3}}</a><br>
-                </td>  
-                <td style="text-align:center; vertical-align:middle">
-                <a href="{{ Clinicians.decision-aid1 }}">{{ Clinicians.decision-aid1 }}</a><br>
-                <a href="{{ Clinicians.decision-aid2 }}">{{ Clinicians.decision-aid2 }}</a><br>
-                <a href="{{ Clinicians.decision-aid3 }}">{{ Clinicians.decision-aid3 }}</a><br>
-                </td>    
-                <td style="text-align:center; vertical-align:middle">
-                <a href="{{ Clinicians.www1 }}">{{ Clinicians.www1 }}</a><br>
-                <a href="{{ Clinicians.www2 }}">{{ Clinicians.www2 }}</a><br>
-                <a href="{{ Clinicians.www3 }}">{{ Clinicians.www3 }}</a><br>
-                </td>
-                <td style="text-align:center; vertical-align:middle">
-                {% if Clinicians.forum == null %}
-                {% else %}
-                <a href="{{ Clinicians.forum }}" target="_blank"><i class="fas fa-comments fa-2x"></i></a>
-                {% endif %}
-                {% if Clinicians.email == null %}
-                {% else %}
-                <a href="mailto:{{ Clinicians.email }}"><i class="fas fa-envelope fa-2x"></i></a>
-                {% endif %}
-                {% if Clinicians.twitter == null %}
-                {% else %}
-                <a href="http://twitter.com/{{ Clinicians.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
-                {% endif %}
-                {% if Clinicians.facebook == null %}
-                {% else %}
-                <a href="{{ Clinicians.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
-                {% endif %}
-                {% if Clinicians.youtube ==null %}
-                {% else %}
-                <a href="{{ Clinicians.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
-                {% endif %}
-                </td>
-                <td>{{ Clinicians.keywords }}</td>
-            </tr>
-        {% endfor %}
-    </tbody>
-</table>
-</div>
-
-        
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">At Your Service</h2>
+            <hr class="my-4">
+          </div>
+        </div>
       </div>
-	  </div>
-	  </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img src="/img/people.jpg" title="Real role play scenarios for your Clinical Skills Assessment study group">
+              <h3 class="mb-3">Ideal exam and real world preparation</h3>
+              <!--<p class="text-muted mb-0">Real role play scenarios for your Clinical Skills Assessment study group.</p>-->
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img src="/img/sos.jpg" title="Communication skills learningTricks of the GP trade">
+              <h3 class="mb-3">Communication skills learning</h3>
+              <!--<p class="text-muted mb-0">Communication skills learning</p>-->
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone">
+              <a href=""><h3 class="mb-3">Shared decision options</h3></a>
+              <!--<p class="text-muted mb-0">Shared decision options</p>-->
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 text-center">
+            <div class="service-box mt-5 mx-auto">
+              <img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice">
+              <h3 class="mb-3">Share our Consultations from across the GP curriculum </h3>
+              <!--<p class="text-muted mb-0">You have to make your websites with love these days!</p>-->
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
+
