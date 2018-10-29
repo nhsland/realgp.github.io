@@ -7,8 +7,8 @@ description: Shared Decision options
 
 <section class="bg-primary text-white" id="about">
       <div class="container text-center">
-        <h2 class="mb-4">{{ title }}</h2>
-        <h3 class="mb-4">{{ description }}</h3>
+        <h2 class="mb-4">{{ page.title }}</h2>
+        <h3 class="mb-4">{{ page.description }}</h3>
         <p align="left"></p>
 		<center><a class="btn btn-light btn-xl" href="mailto:info@code4health.org?Subject=%5BSuggest%20New%20Topic%5D&Body=%5BName%5D%0A%5BRole%20%26%20Topic%5D%0A%5BDetails%20%5D%0A">Suggest a Topic</a></center>
 </div>
