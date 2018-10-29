@@ -28,28 +28,28 @@ title:  "Clinicians"
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img src="/img/people.jpg" title="Real role play scenarios for your Clinical Skills Assessment study group" width="50%">
-              <h3 class="mb-3">Ideal exam and real world preparation</h3>
+              <p class="mb-3">Ideal exam and real world preparation</p>
               <!--<p class="text-muted mb-0">Real role play scenarios for your Clinical Skills Assessment study group.</p>-->
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img src="/img/sos.jpg" title="Communication skills learningTricks of the GP trade" width="50%">
-              <h3 class="mb-3">Communication skills learning</h3>
+              <p class="mb-3">Communication skills learning</p>
               <!--<p class="text-muted mb-0">Communication skills learning</p>-->
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone" width="50%">
-              <a href=""><h3 class="mb-3">Shared decision options</h3></a>
+              <a href=""><p class="mb-3">Shared decision options</p></a>
               <!--<p class="text-muted mb-0">Shared decision options</p>-->
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" width="50%">
-              <h3 class="mb-3">Share our Consultations from across the GP curriculum </h3>
+              <p class="mb-3">Share our Consultations from across the GP curriculum </p>
               <!--<p class="text-muted mb-0">You have to make your websites with love these days!</p>-->
             </div>
           </div>
