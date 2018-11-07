@@ -34,7 +34,7 @@ description: Shared Decision options
         </thead>
         <tbody>
         {% for clinician in site.clinicians %}
-        {% if clinician.category == page.title %}
+        {% if clinician.area == page.title %}
             <tr>
                 <td style="text-align:center; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
