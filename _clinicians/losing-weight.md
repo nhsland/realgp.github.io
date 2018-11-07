@@ -1,5 +1,5 @@
 ---
-area: Shared Decision Options GP curriculum
+area: Shared Decision Options GP Curriculum
 category: Losing Weight
 title: Shared decision options audio. Dr Keith Birrell with Mark who wants to lose weight
 description: Listen to Dr Keith Birrell guiding Mark to make informed decisions to help him lose weight
