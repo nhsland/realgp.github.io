@@ -18,7 +18,7 @@ description: Share our Consultations from across the GP curriculum
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <center><h2 class="section-heading">Patient Resources</h2>
+            <center><h2 class="section-heading">GP Curriculum</h2>
             <hr class="my-4"></center>
 
   	<div style="overflow-x:auto;">	
