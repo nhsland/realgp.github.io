@@ -33,7 +33,7 @@ description: Real role play scenarios for your clinical skills assessment study 
             </tr>
         </thead>
         <tbody>
-        {% for clinician in site.clinician %}
+        {% for clinician in site.clinicians %}
         {% if clinician.category == page.title %}
             <tr>
                 <td style="text-align:center; vertical-align:middle">
