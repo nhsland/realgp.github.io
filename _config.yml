@@ -19,6 +19,7 @@ collections:
  - patients
  - clinicians
 
+
 gems:
   - jekyll-archives
 
