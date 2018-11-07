@@ -30,7 +30,7 @@ title:  "Clinicians"
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">At Your Service</h2>
+            <h2 class="section-heading">Course Areas</h2>
             <hr class="my-4">
           </div>
         </div>
