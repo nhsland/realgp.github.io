@@ -1,5 +1,5 @@
 ---
-area: Communication Skills
+area: Clinical Skills
 category: 2.01 The GP Consultation in Practice
 title: Touch and go empathy
 description: Astrid talks to Dr Birrell
