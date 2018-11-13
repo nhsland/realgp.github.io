@@ -18,14 +18,14 @@ description: Real role play scenarios for your clinical skills assessment study 
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <center><h2 class="section-heading">Patient Resources</h2>
+            <center><h2 class="section-heading">Clinician Resources</h2>
             <hr class="my-4"></center>
 
   	<div style="overflow-x:auto;">	
          <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
         <thead>
             <tr>
-                <th>Category</th>
+                <th>Curriculum Area</th>
                 <th>Title</th>
                 <th>Description</th>
                 <th>Link</th>
@@ -34,9 +34,9 @@ description: Real role play scenarios for your clinical skills assessment study 
         </thead>
         <tbody>
         {% for clinician in site.clinicians %}
-        {% if clinician.category == page.title %}
+        {% if clinician.area contains page.title %}
             <tr>
-                <td style="text-align:center; vertical-align:middle">
+                <td style="text-align:left; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
                 </td>
                 <td><p>{{ clinician.title }}</p></td>

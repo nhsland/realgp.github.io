@@ -7,7 +7,7 @@ title:  "Clinicians"
 <section class="bg-primary text-white" id="about">
       <div class="container text-center">
         <h2 class="mb-4">Clinician Resources</h2>
-        <p align="left">Welcome to real general practice, an innovative approach to improving consulting skills for GPs, GP registrars and medical students.</p>		
+        <p align="left">Welcome to Real General Practice, an innovative approach to improving consulting skills for GPs, GP registrars and medical students.</p>		
     <p align="left">My name is Keith Birrell. I’m a GP trainer I work in the Sunderland area of the United Kingdom and I've been teaching and training since 1994.  </p>
         <p align="left">My training style has a proven success rate. All of my own registrars have passed the Clinical Skills Assessment exam. I've been training for 8 years and I’ve had 23 successful registrars. Not to mention the registrars who have benefited from the communication skills workshops and the mock exam circuits that I have run, or been involved in.</p>
         <p align="left">I want to thank my patients for generously allowing me to record their consultations and for allowing you to be a fly on the wall of my consulting room. I also want to thank my contributors, and my learners, for allowing me to record their lessons. You will benefit from the combined wealth of consulting experience and teaching prowess, that I have captured on your behalf.</p>
