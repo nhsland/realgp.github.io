@@ -17,7 +17,8 @@ title:  "Clinicians"
              <li>4.	Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul></li>
         </ul>
-		
+		<br>
+    <br>
 </div>
 </section>
 
@@ -26,7 +27,7 @@ title:  "Clinicians"
             <div class="row">
                 <div class="single-features">
                     <div class="col-sm-5 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="/img/people.jpg" class="img-responsive" alt="">
+                        <img src="/img/people.jpg" class="img-responsive" alt="" width="20%">
                     </div>
                     <div class="col-sm-6 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                         <h2>Ideal exam and real world preparation</h2>
@@ -39,12 +40,12 @@ title:  "Clinicians"
                         <P>Communication skills learning, tricks of the GP trade</P>
                     </div>
                     <div class="col-sm-5 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="/img/sos.jpg" class="img-responsive" alt="">
+                        <img src="/img/sos.jpg" class="img-responsive" alt="" width="20%">
                     </div>
                 </div>
                 <div class="single-features">
                     <div class="col-sm-5 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="/img/fairground.jpg" class="img-responsive" alt="">
+                        <img src="/img/fairground.jpg" class="img-responsive" alt="" width="20%">
                     </div>
                     <div class="col-sm-6 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                         <h2>Shared Decision Options</h2>
@@ -57,7 +58,7 @@ title:  "Clinicians"
                         <P>Dot the i’s and cross the t’s, be my apprentice</P>
                     </div>
                     <div class="col-sm-5 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="/img/isandts.jpg" class="img-responsive" alt="">
+                        <img src="/img/isandts.jpg" class="img-responsive" alt="" width="20%">
                     </div>
                 </div>
             </div>
