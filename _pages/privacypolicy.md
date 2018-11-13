@@ -1,6 +1,6 @@
 ---
 permalink: "/privacy/"
-layout: page
+layout: default
 title:  "Privacy & Cookie Policy"
 ---
 

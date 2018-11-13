@@ -1,6 +1,6 @@
 ---
 permalink: "/clinical-skills/"
-layout: page
+layout: default
 title:  "Clinical Skills"
 description: Real role play scenarios for your clinical skills assessment study group.
 ---

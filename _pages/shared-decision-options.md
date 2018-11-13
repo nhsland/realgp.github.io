@@ -1,6 +1,6 @@
 ---
 permalink: "/shared-decision-options/"
-layout: page
+layout: default
 title:  "Shared Decision Options"
 description: Shared Decision options
 ---

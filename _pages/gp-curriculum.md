@@ -1,6 +1,6 @@
 ---
 permalink: "/GP-curriculum/"
-layout: page
+layout: default
 title:  "GP Curriculum"
 description: Share our Consultations from across the GP curriculum 
 ---

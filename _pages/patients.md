@@ -1,6 +1,6 @@
 ---
 permalink: "/patients/"
-layout: page
+layout: default
 title:  "Patients"
 ---
 

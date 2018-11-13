@@ -1,6 +1,6 @@
 ---
 permalink: "/communication-skills/"
-layout: page
+layout: default
 title:  "Communication Skills"
 description: Communication skills learning
 ---
