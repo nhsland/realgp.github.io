@@ -11,10 +11,10 @@ title:  "Clinicians"
         <ul align="left">
           <li>This course consists of 4 groups of educational material
           <ul>
-            <li> 1.	Role play scenarios for your CSA study group</p></li>
-            <li> 2.	Communication skills learning. These are teaching sessions recorded with our communication skills experts to improve your consultations</p></li>
-            <li> 3.	Shared decision options. These are extended option discussions with patients with specific conditions. These recordings are suitable for GPs and patients alike</p></li>
-             <li>4.	Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</p></li>
+            <li> 1.	Role play scenarios for your CSA study group</li>
+            <li> 2.	Communication skills learning. These are teaching sessions recorded with our communication skills experts to improve your consultations</li>
+            <li> 3.	Shared decision options. These are extended option discussions with patients with specific conditions. These recordings are suitable for GPs and patients alike</li>
+             <li>4.	Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul></li>
         </ul>
 		
