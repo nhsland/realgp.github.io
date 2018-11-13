@@ -8,7 +8,7 @@ title:  "Clinicians"
       <div class="container text-center">
         <h2 class="mb-4 text-white">Clinician Resources</h2>
         <p align="left">Real general practice is designed to help you to acquire the skills and knowledge necessary for you to pass the clinical skills assessment exam. It will demonstrate to you: how busy GPs incorporate up-to-date knowledge and evidence based, patient-centred practice into their consultations. CSA candidates and medical students will often prefer to use our material in study groups, with or without the support of a trainer. Busy GPs can bring themselves up-to-date listening to audio material on their smart phones wherever and whenever they feel so inclined.</p>
-        <p>This course consists of 4 groups of educational material</p>
+        <p align="left">This course consists of 4 groups of educational material</p>
         <ul align="left">
             <li> 1.	Role play scenarios for your CSA study group</li>
             <li> 2.	Communication skills learning. These are teaching sessions recorded with our communication skills experts to improve your consultations</li>
