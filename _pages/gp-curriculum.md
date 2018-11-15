@@ -36,7 +36,7 @@ description: Share our Consultations from across the GP curriculum
         {% for clinician in site.clinicians %}
         {% if clinician.area contains page.title %}
             <tr>
-                <td style="text-align:center; vertical-align:middle">
+                <td style="text-align:left; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
                 </td>
                 <td><p>{{ clinician.title }}</p></td>
@@ -44,19 +44,19 @@ description: Share our Consultations from across the GP curriculum
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.audio == null %}
                 {% else %}
-                <a href="{{ clinician.audio }}" target="_blank"><i class="fas fa-headphones fa-2x"></i></a>
+                <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="80%"></a>
                 {% endif %}
                 {% if clinician.article == null %}
                 {% else %}
-                <a href="{{ clinician.article }}" target="_blank"><i class="fas fa-file-alt fa-2x"></i></a>
+                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="80%"></a>
                 {% endif %}
                 {% if clinician.www == null %}
                 {% else %}
-                <a href="{{ clinician.www }}" target="_blank"><i class="fas fa-globe fa-2x"></i></a>
+                <a href="{{ clinician.www }}" target="_blank"><img src="/img/globe.png" width="80%"></a>
                 {% endif %} 
                 {% if clinician.youtube ==null %}
                 {% else %}
-                <a href="{{ clinician.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="80%"></a>
                 {% endif %}
                 </td>
                 <td>{{ clinician.keywords }}</td>
