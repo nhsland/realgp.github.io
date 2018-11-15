@@ -47,19 +47,19 @@ title:  "Patients"
                 <td style="text-align:center; vertical-align:middle">
                 {% if patients.audio == null %}
                 {% else %}
-                <a href="{{ patients.audio }}" target="_blank"><img src="/img/itunes.png" width="7%"></a>
+                <a href="{{ patients.audio }}" target="_blank"><img src="/img/itunes.png" width="50%"></a>
                 {% endif %}
                 {% if patients.article == null %}
                 {% else %}
-                <a href="{{ patients.article }}" target="_blank"><img src="/img/note.png" width="7%"></a>
+                <a href="{{ patients.article }}" target="_blank"><img src="/img/note.png" width="50%"></a>
                 {% endif %}
                 {% if patients.www == null %}
                 {% else %}
-                <a href="{{ patients.www }}" target="_blank"><img src="/img/globe.png" width="7%"></a>
+                <a href="{{ patients.www }}" target="_blank"><img src="/img/globe.png" width="50%"></a>
                 {% endif %} 
                 {% if patients.youtube ==null %}
                 {% else %}
-                <a href="{{ patients.youtube }}" target="_blank"><img src="/img/video.png" width="7%"></a>
+                <a href="{{ patients.youtube }}" target="_blank"><img src="/img/video.png" width="50%"></a>
                 {% endif %}
                 </td>
                 <td>{{ patients.keywords }}</td>
