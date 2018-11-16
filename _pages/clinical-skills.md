@@ -19,8 +19,8 @@ description: Real role play scenarios for your clinical skills assessment study 
              <div class="container">
                 <div class="row">
                     <div class="action take-tour">
-                            <center><h1 class="title">Clinician Skills</h1>
-                            <p>Real role play scenarios for your clinical skills assessment study group.</p></center>
+                            <center><h1 class="title">{{ page.title }}</h1>
+                            <p>{{ page.description }}</p></center>
                     </div>
                 </div>
             </div>
@@ -31,7 +31,8 @@ description: Real role play scenarios for your clinical skills assessment study 
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-
+<br>
+<br>
   	<div style="overflow-x:auto;">	
          <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
         <thead>
