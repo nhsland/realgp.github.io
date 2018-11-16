@@ -11,8 +11,8 @@ title:  "Patients"
                         <div class="col-sm-7 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
                             <h1 class="title">Patient Resources</h1>
                             <p>Choose the best option for YOU, with our help</p>
-                        </div>
-                        <!--<div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <!--</div>
+                        <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
                                 <a href="#" class="btn btn-common">TAKE THE TOUR</a>
                              </div>--> 
