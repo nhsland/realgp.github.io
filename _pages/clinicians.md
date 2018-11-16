@@ -31,7 +31,7 @@ title:  "Clinicians"
                 <div class="row">
                 <div class="col-xs-4 col-sm-offset-2 col-md-offset-1 col-md-5 col-lg-offset-0 col-lg-6 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms" height="200px">
                           <a href="{{ '/clinical-skills' }}"><img src="/img/people.jpg" title="Real role play scenarios for your Clinical Skills Assessment study group" height="100%"></a>
                         </div>
                         <h2>Clinical Skills</h2>
@@ -40,7 +40,7 @@ title:  "Clinicians"
                 </div>
                 <div class="col-xs-4 col-md-5 col-lg-6 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms" height="200px">
                             <a href="{{ '/communication-skills' }}"><img src="/img/sos.jpg" title="Communication skills learningTricks of the GP trade" height="100%"></a>
                         </div>
                         <h2>Communication Skills</h2>
@@ -50,7 +50,7 @@ title:  "Clinicians"
                 <div class="row">
                 <div class="col-xs-4 col-sm-offset-2 col-md-offset-1 col-md-5 col-lg-offset-0 col-lg-6 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
-                      <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
+                      <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms" height="200px">
                         <a href="{{ '/shared-decision-options' }}"><img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone" height="100%"></a>
                         </div>
                         <h2>Shared decision options</h2>
@@ -59,7 +59,7 @@ title:  "Clinicians"
                 </div>
                 <div class="col-xs-4 col-md-5 col-lg-6 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms" height="200px">
                           <a href="{{ '/GP-curriculum' }}"><img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" height="100%"></a>
                         </div>
                         <h2>Share our Consultations from across the GP curriculum </h2>
