@@ -3,30 +3,31 @@ permalink: "/patients/"
 layout: default
 title:  "Patients"
 ---
+
 <section id="action" class="responsive">
         <div class="vertical-center">
              <div class="container">
                 <div class="row">
                     <div class="action take-tour">
                         <div class="col-sm-7 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <h1 class="title">Patient Resources</h1>
-                            <p>Choose the best option for YOU, with our help</p>
-                        <!--</div>
-                        <div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
+                            <center><h1 class="title">Patient Resources</h1>
+                            <p>Choose the best option for YOU, with our help</p></center>
+                        </div>
+                        <!--<div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                             <div class="tour-button">
                                 <a href="#" class="btn btn-common">TAKE THE TOUR</a>
-                             </div>--> 
-                        </div>
+                            </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
         </div>
    </section>
 
-<section class="bg-primary text-white" id="about">
+<!--<section class="bg-primary text-white" id="about">
       <div class="container text-center">
         <!--<h2 class="mb-4">Patient Resources</h2>
-        <h3 class="mb-4">Choose the best option for YOU, with our help</h3>-->
+        <h3 class="mb-4">Choose the best option for YOU, with our help</h3>
         <p align="left">How often have you left the doctor’s surgery thinking that you haven’t had enough time to fully explore what is the best option to manage your problem? We are all individuals. We all make different decisions about what we are happy to do to keep healthy. </p>
         <p align="left">We still depend on doctors to help us to figure out what our illnesses are. And when we figure out what our illness is, we all need help to negotiate what types of treatment suit us best. What works best to help us to feel better or live longer? What are we prepared to do? Figuring all of this out takes time. Your 10 minute GP appointment rarely suffices. Let your doctor help you to decide what your problem is. Then, join me in bringing your choices to life.</p>
         <p align="left">I’ve had conversations with some of my patients about their choices, based on what I have discovered about their circumstances, values, fears and wishes. I present viable options to them based on the things that matter to them. Together, the patient and I can tailor potential treatment options to their condition or problem. I present extra evidence to help you, the listening audience, to make decisions that might suit you too.</p>
@@ -35,7 +36,7 @@ title:  "Patients"
         <p align="left">These audios are part of our Real General Practice project. Real General Practice aims to help GPs in training, and GPs, to improve their communication skills and their knowledge of how to to their job in the consulting room. Perhaps you could make a recommendation to your friends on social media to ensure that more patients get to access our shared decision making tools </p>
 		<center><a class="btn btn-light btn-xl" href="mailto:info@code4health.org?Subject=%5BSuggest%20New%20Topic%5D&Body=%5BName%5D%0A%5BRole%20%26%20Topic%5D%0A%5BDetails%20%5D%0A">Suggest a Topic</a></center>
 </div>
-</section>
+</section>-->
 
 <section id="patients">
       <div class="container">
