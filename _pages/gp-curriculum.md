@@ -1,7 +1,7 @@
 ---
 permalink: "/GP-curriculum/"
 layout: default
-title:  "GP Curriculum"
+title:  "Clinical Skills" 
 description: Share our Consultations from across the GP curriculum 
 ---
 
@@ -10,7 +10,7 @@ description: Share our Consultations from across the GP curriculum
              <div class="container">
                 <div class="row">
                     <div class="action take-tour">
-                            <center><h1 class="title">{{ page.title }}</h1>
+                            <center><h1 class="title">GP Curriculum</h1>
                             <p>{{ page.description }}</p></center>
                     </div>
                 </div>
