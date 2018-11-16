@@ -9,15 +9,8 @@ title:  "Patients"
              <div class="container">
                 <div class="row">
                     <div class="action take-tour">
-                        <div class="col-sm-7 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
                             <center><h1 class="title">Patient Resources</h1>
                             <p>Choose the best option for YOU, with our help</p></center>
-                        </div>
-                        <!--<div class="col-sm-5 text-center wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <div class="tour-button">
-                                <a href="#" class="btn btn-common">TAKE THE TOUR</a>
-                            </div>
-                        </div>-->
                     </div>
                 </div>
             </div>
@@ -42,10 +35,7 @@ title:  "Patients"
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <center><h2 class="section-heading">Patient Resources</h2>
-            <hr class="my-4"></center>
-
-  	<div style="overflow-x:auto;">	
+              	<div style="overflow-x:auto;">	
          <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
         <thead>
             <tr>
