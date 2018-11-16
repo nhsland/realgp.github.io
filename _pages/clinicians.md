@@ -45,8 +45,10 @@ title:  "Clinicians"
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul>
           <br><br>
-
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+          <div class="col-lg-10 mx-auto text-center">
+          <div class="row">
+            <div class="col-md-1"></div>
+                <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
                           <a href="{{ '/clinical-skills' }}"><img src="/img/people.jpg" title="Real role play scenarios for your Clinical Skills Assessment study group" width="50%"></a>
@@ -55,7 +57,7 @@ title:  "Clinicians"
                         <p>Real role play scenarios for your Clinical Skills Assessment study group.</p>
                     </div>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
+                <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
                             <a href="{{ '/communication-skills' }}"><img src="/img/sos.jpg" title="Communication skills learningTricks of the GP trade" width="50%"></a>
@@ -64,7 +66,7 @@ title:  "Clinicians"
                         <p>Communication skills learning, tricks of the GP trade</p></a>
                     </div>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                       <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
                         <a href="{{ '/shared-decision-options' }}"><img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone" width="50%"></a>
@@ -73,7 +75,7 @@ title:  "Clinicians"
                         <p>Swings and roundabouts, no management option suits everyone</p></a>
                     </div>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
                           <a href="{{ '/GP-curriculum' }}"><img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" width="50%"></a><img src="/img/disclaimer.png" alt="">
@@ -82,6 +84,9 @@ title:  "Clinicians"
                         <p>Dot the i’s and cross the t’s, be my apprentice</p></a>
                     </div>
                 </div>
+                <div class="col-md-1"></div>
+            </div>
+            </div>
             </div>
         </div>
     </section>
