@@ -45,8 +45,6 @@ title:  "Clinicians"
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul>
           <br><br>
-          <div class="col-lg-10 mx-auto text-center">
-          <div class="row">
             <div class="col-md-2"></div>
                 <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
@@ -85,8 +83,6 @@ title:  "Clinicians"
                     </div>
                 </div>
                 <div class="col-md-2"></div>
-            </div>
-            </div>
             </div>
         </div>
     </section>
