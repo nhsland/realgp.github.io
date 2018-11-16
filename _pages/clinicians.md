@@ -44,8 +44,7 @@ title:  "Clinicians"
             <li align="left"> 3. Shared decision options. These are extended option discussions with patients with specific conditions. These recordings are suitable for GPs and patients alike</li>
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul>
-          <br><br>
-            <div class="col-md-1"></div>
+          <br><br>       
                 <div class="col-sm-3 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
@@ -82,7 +81,6 @@ title:  "Clinicians"
                         <p>Dot the i's and cross the t’s, be my apprentice</p>
                     </div>
                 </div>
-                <div class="col-md-1"></div>
             </div>
         </div>
     </section>
