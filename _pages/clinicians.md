@@ -63,7 +63,7 @@ title:  "Clinicians"
                             <a href="{{ '/communication-skills' }}"><img src="/img/sos.jpg" title="Communication skills learningTricks of the GP trade" width="100%"></a>
                         </div>
                         <h2>Communication Skills</h2>
-                        <p>Communication skills learning, tricks of the GP trade</p></a>
+                        <p>Communication skills learning, tricks of the GP trade</p>
                     </div>
                 </div>
                 <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
@@ -72,16 +72,16 @@ title:  "Clinicians"
                         <a href="{{ '/shared-decision-options' }}"><img src="/img/fairground.jpg" title="Swings and roundabouts, no management option suits everyone" width="100%"></a>
                         </div>
                         <h2>Shared decision options</h2>
-                        <p>Swings and roundabouts, no management option suits everyone</p></a>
+                        <p>Swings and roundabouts, no management option suits everyone</p>
                     </div>
                 </div>
                 <div class="col-sm-2 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                          <a href="{{ '/GP-curriculum' }}"><img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" width="100%"></a><img src="/img/disclaimer.png" alt="">
+                          <a href="{{ '/GP-curriculum' }}"><img src="/img/isandts.jpg" title="Dot the i’s and cross the t’s, be my apprentice" width="100%"></a>
                         </div>
                         <h2>Share our Consultations from across the GP curriculum </h2>
-                        <p>Dot the i’s and cross the t’s, be my apprentice</p></a>
+                        <p>Dot the i’s and cross the t’s, be my apprentice</p>
                     </div>
                 </div>
                 <div class="col-md-2"></div>
