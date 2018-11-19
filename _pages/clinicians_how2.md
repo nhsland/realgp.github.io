@@ -1,7 +1,7 @@
 ---
 permalink: "/clinicians_how2/"
 layout: default
-title:  "Clinicians - How to use our resources"
+title:  "How to use our resources"
 ---
 <section id="action" class="responsive">
         <div class="vertical-center">
@@ -13,7 +13,7 @@ title:  "Clinicians - How to use our resources"
                 </div>
             </div>
         </div>
-   </section>
+</section>
 
 <section id="clinician">
       <div class="container">
