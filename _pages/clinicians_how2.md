@@ -1,7 +1,7 @@
 ---
 permalink: "/clinicians_how2/"
 layout: default
-title:  "Clinician - How to use our resources"
+title:  "Clinicians - How to use our resources"
 ---
 
 <section id="action" class="responsive">
