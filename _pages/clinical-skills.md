@@ -1,6 +1,6 @@
 ---
 permalink: "/clinical-skills/"
-layout: default
+layout: page
 title:  "Clinical Skills"
 description: Real role play scenarios for your clinical skills assessment study group.
 ---
@@ -40,7 +40,13 @@ description: Real role play scenarios for your clinical skills assessment study 
                 <th>Curriculum Area</th>
                 <th>Title</th>
                 <th>Description</th>
-                <th>Link</th>
+                <th>Audio/Video</th>
+                <th>Patient Script</th>
+                <th>Doctor's Notes</th>
+                <th>Examination Findings</th>
+                <th>LEJOG map</th>
+                <th>Mapping the doctors word</th>
+                <th>Transcription</th>
                 <th>Key Words</th>
             </tr>
         </thead>
@@ -48,29 +54,68 @@ description: Real role play scenarios for your clinical skills assessment study 
         {% for clinician in site.clinicians %}
         {% if clinician.area contains page.title %}
             <tr>
+                <!--category-->
                 <td style="text-align:left; vertical-align:middle">
                 <a href="#" data-toggle="tooltip" title="{{ clinician.category-desc }}">{{ clinician.category }}</a>
                 </td>
+                <!--title-->
                 <td><p>{{ clinician.title }}</p></td>
+                <!--description-->
                 <td><p>{{ clinician.description }}</p></td>
+                <!--audio and video-->
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.audio == null %}
                 {% else %}
                 <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="23px"></a>
                 {% endif %}
-                {% if clinician.article == null %}
-                {% else %}
-                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="23px"></a>
-                {% endif %}
-                {% if clinician.www == null %}
-                {% else %}
-                <a href="{{ clinician.www }}" target="_blank"><img src="/img/globe.png" width="23px"></a>
-                {% endif %} 
                 {% if clinician.youtube ==null %}
                 {% else %}
                 <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="23px"></a>
                 {% endif %}
                 </td>
+                <!--Patient Script-->
+                <td style="text-align:center; vertical-align:middle">
+                {% if clinician.patient-script == null %}
+                {% else %}
+                <a href="{{ clinician.patient-script }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--Doctors Note-->
+                <td style="text-align:center; vertical-align:middle">
+                {% if clinician.doctors-note == null %}
+                {% else %}
+                <a href="{{ clinician.doctors-note }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--Examination Findings-->
+                 <td style="text-align:center; vertical-align:middle">
+                {% if clinician.findings == null %}
+                {% else %}
+                <a href="{{ clinician.findings }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--LEJOG map-->
+                 <td style="text-align:center; vertical-align:middle">
+                {% if clinician.lejog == null %}
+                {% else %}
+                <a href="{{ clinician.lejog }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--Mapping the doctors word-->
+                 <td style="text-align:center; vertical-align:middle">
+                {% if clinician.doctors-word == null %}
+                {% else %}
+                <a href="{{ clinician.doctors-word }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--Transcription-->
+                 <td style="text-align:center; vertical-align:middle">
+                {% if clinician.transcription == null %}
+                {% else %}
+                <a href="{{ clinician.transcription }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                {% endif %}
+                </td>
+                <!--Keywords-->
                 <td>{{ clinician.keywords }}</td>
             </tr>
             {% endif %}
