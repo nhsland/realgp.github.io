@@ -1,6 +1,6 @@
 ---
 area: Clinicians - How to use our resources
-category: Real General Practice
+category: For Clinical Skills Assessment candidates and other GP registrars
 title: For Clinical Skills Assessment candidates and other GP registrars
 description: Read or listen to our guide
 audio: /assets/audio/Intros/C - Introduction for Clinical Skills Assessment candidates and other GP Registrars - MQ.mp3

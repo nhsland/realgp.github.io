@@ -1,6 +1,6 @@
 ---
 area: Clinicians - How to use our resources
-category: Real General Practice
+category: For busy revalidating GPs
 title: For busy revalidating GPs
 description: Read or listen to our guide
 audio: /assets/audio/Intros/B - Introduction for busy, revalidating GPs - MQ.mp3

@@ -1,7 +1,7 @@
 ---
 category: Insomnia
 title: Sleep Booklet
-description: Dr Dave Tomlinson's booklet guiding a patient through their sleep problems
+description: Dr Dave Tomson's booklet guiding a patient through their sleep problems
 audio: 
 article: /assets/publication/Sleep-booklet.pdf
 www: 

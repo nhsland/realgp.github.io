@@ -1,8 +1,8 @@
 ---
-area: Clinical Skills
-category: 2.01 The GP Consultation in Practice
+area: Communication Skills
+category: Map of the consultation workshop
 title: Stress presenting as a physical symptom
-description: Erica talks to Dr Birrell
+description: Erica consults with Dr Birrell about her neck pain
 audio: /assets/audio/Doctor - Erica - Stress Neck Pain v2 Short Version.mp3
 article: 
 www: 

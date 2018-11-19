@@ -1,6 +1,6 @@
 ---
 area: Clinicians - How to use our resources
-category: Real General Practice
+category: Getting ready for the CSA exam
 title: Getting ready for the CSA exam
 description: Read or listen to our guide
 audio: /assets/audio/Intros/A - Real General Practice for busy GPs and CSA candidates v2 - MQ.mp3
