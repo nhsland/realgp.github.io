@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Touch and go empathy, progestogen only pill, acne rosacea
 youtube:
---- 
+patient-script: /assets/publication/
+doctors-note: /assets/publication/
+findings: /assets/publication/
+lejog: /assets/publication/
+doctors-word: /assets/publication/
+transcription: /assets/publication/
+---  

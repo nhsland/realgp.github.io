@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Stress, neck pain, conversion, functional
 youtube: https://youtu.be/eRHb5quBTOA
+patient-script: /assets/publication/
+doctors-note: /assets/publication/
+findings: /assets/publication/
+lejog: /assets/publication/
+doctors-word: /assets/publication/
+transcription: /assets/publication/
 --- 

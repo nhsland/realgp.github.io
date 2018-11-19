@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Bladder, outflow, obstruction, prostate, cancer, benign, hypertrophy
 youtube:
+patient-script: /assets/publication/
+doctors-note: /assets/publication/
+findings: /assets/publication/
+lejog: /assets/publication/
+doctors-word: /assets/publication/
+transcription: /assets/publication/
 --- 

@@ -8,4 +8,10 @@ article:
 www: 
 keywords: Conversion, chronic pain, functional, pain
 youtube:
+patient-script: /assets/publication/
+doctors-note: /assets/publication/
+findings: /assets/publication/
+lejog: /assets/publication/
+doctors-word: /assets/publication/
+transcription: /assets/publication/
 --- 
