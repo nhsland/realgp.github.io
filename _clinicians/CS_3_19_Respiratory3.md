@@ -3,7 +3,7 @@ area: Clinical Skills
 category: 3.19 Respiratory Health
 title: Whooping cough
 description: Janet talks to Dr Birrell
-audio: /assets/audio/Doctor - Janet pertussis and atrophic vaginitis - MQ
+audio: /assets/audio/Doctor - Janet pertussis and atrophic vaginitis - MQ.mp3
 article: 
 www: 
 keywords: Whooping cough, pertussis, atrophic vaginitis
