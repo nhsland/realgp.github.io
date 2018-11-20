@@ -36,7 +36,7 @@ title:  "Clinicians"
       <div class="container">
             <div class="row">
                 <center><h1>Clinicians - How to use our resources</h1>
-                <p>Choose the role or roles that apply to you and read or listen to the information provided</center>
+                <p>Choose the role or roles that apply to you and read or listen to the information provided</p></center>
                 <hr class="my-4">
                 <div class="col-lg-12"><br><br>
   	                <div style="overflow-x:auto;">	
