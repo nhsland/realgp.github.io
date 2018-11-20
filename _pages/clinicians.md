@@ -35,7 +35,7 @@ title:  "Clinicians"
 <section id="clinician">
       <div class="container">
             <div class="row">
-                <center><h1>Clinicians - How to use our resources</h1>
+                <center><h1>How to use our resources</h1>
                 <p>Choose the role or roles that apply to you and read or listen to the information provided</p></center>
                 <hr class="my-4">
                 <div class="col-lg-12"><br><br>
@@ -91,7 +91,7 @@ title:  "Clinicians"
 <section id="services">
         <div class="container">
                 <div class="row">
-                <center><h1>Clinician Resources</h1></center>
+                <center><h1>Resources</h1></center>
                 <hr class="my-4">
                 <div class="col-xs-4 col-sm-offset-3 col-sm-6 col-md-offset-0 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
