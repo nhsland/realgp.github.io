@@ -1,10 +1,10 @@
 ---
-category: Losing Weight
-title: Shared decision options audio - Dr Keith Birrell with insomniac Neil
-description: Listen to Dr Keith Birrell guiding Neil to make informed decisions to improve his sleep
-audio: /assets/audio/Mark-weight-RGP.mp3
+category: Anxiety and depression
+title: Shared decision options audio. Dr Keith Birrell with Hannah. Hannah is anxious and perhaps depressed.
+description: Listen to Dr Keith Birrell guiding Hannah to make informed decisions to reduce her anxiety levels and to improve her mood.
+audio: /assets/audio/Hannah - Anxiety Depression Options - MQ.mp3
 article: 
 www: 
-keywords: losing weight, obesity, audio, shared, decision, options, 
+keywords: Audio, shared decision options, informed decision, anxiety, depression, stress, mood, talking therapy, CBT, cognitive behavioural therapy, mindfulness 
 youtube:
 --- 

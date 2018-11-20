@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Toddler, Falls
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
-lejog: /assets/publication/
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+patient-script: /assets/publication/Scott - Patient's mum.pdf
+doctors-note: /assets/publication/Scott - Doctor.pdf
+findings: /assets/publication/Scott - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Scott - mapping the doctor's words.pdf
+transcription: /assets/publication/Scott - transcription.pdf
 --- 

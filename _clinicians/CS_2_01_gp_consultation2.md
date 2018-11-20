@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Conversion, chronic pain, functional, pain
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
-lejog: /assets/publication/
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+patient-script: /assets/publication/Ester - Patient.pdf
+doctors-note: /assets/publication/Ester - Doctor.pdf
+findings: /assets/publication/Ester - Examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Ester - mapping the doctor's words.pdf
+transcription: /assets/publication/Ester - transcription.pdf
 --- 

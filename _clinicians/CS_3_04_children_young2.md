@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Growing pains
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
-lejog: /assets/publication/
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+patient-script: /assets/publication/James - Patient.pdf
+doctors-note: /assets/publication/James - Doctor.pdf
+findings: /assets/publication/James - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/James - mapping the doctor's words.pdf
+transcription: /assets/publication/James - transcription.pdf
 ---  

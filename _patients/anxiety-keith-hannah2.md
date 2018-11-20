@@ -1,10 +1,10 @@
 ---
-category: Losing Weight
-title: Shared decision options audio - Dr Keith Birrell with insomniac Neil
-description: Listen to Dr Keith Birrell guiding Neil to make informed decisions to improve his sleep
-audio:
-article: /assets/audio/Mark-weight-RGP.mp3
+category: Anxiety and depression
+title: Shared decision options audio. Dr Keith Birrell and Hannah. Hannah is considering using a medicine for anxiety and her mood.
+description: Listen to Dr Keith Birrell guiding Hannah to make informed decisions to reduce her anxiety levels and to improve her mood. They decide together if medicine for anxiety and depression might be worth trying. Which medicine might suit Hannah?
+audio: /assets/audio/Hannah - Anxiety Depression Options - Choosing a Medicine - MQ.mp3
+article: 
 www: 
-keywords: losing weight, obesity, audio, shared, decision, options, 
+keywords: Audio, shared decision options, informed decision, fluoxetine, sertraline, citalopram, mirtazapine, buproprion, zyban, venlafaxine, duloxetine, amitriptyline 
 youtube:
 --- 
