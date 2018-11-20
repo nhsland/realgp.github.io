@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Family history, hypertrophic obstructive cardiomyopathy, HOCM
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
-lejog: /assets/publication/
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+patient-script: /assets/publication/Yvonne - Patient.pdf
+doctors-note: /assets/publication/Yvonne - Doctor.pdf
+findings: /assets/publication/Yvonne - examination findings.pdf
+lejog: 
+doctors-word: /assets/publication/Yvonne - mapping the doctor's words.pdf
+transcription: /assets/publication/Yvonne - transcription.pdf
 --- 
