@@ -136,6 +136,5 @@ title:  "Clinicians"
                      </div>
                 </div>
             </div>
-        </div>
     </section>
 
