@@ -11,7 +11,7 @@ youtube:
 patient-script: /assets/publication/Yvonne - Patient.pdf
 doctors-note: /assets/publication/Yvonne - Doctor.pdf
 findings: /assets/publication/Yvonne - examination findings.pdf
-lejog: 
+lejog: /assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/Yvonne - mapping the doctor's words.pdf
 transcription: /assets/publication/Yvonne - transcription.pdf
 --- 

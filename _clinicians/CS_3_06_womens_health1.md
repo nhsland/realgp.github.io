@@ -8,10 +8,10 @@ article:
 www: 
 keywords: Heavy periods, metrorrhagia, menorrhagia
 youtube:
-patient-script: /assets/publication/
-doctors-note: /assets/publication/
-findings: /assets/publication/
-lejog: /assets/publication/
-doctors-word: /assets/publication/
-transcription: /assets/publication/
+patient-script: /assets/publication/Sonia - Patient.pdf
+doctors-note: /assets/publication/Sonia - Doctor.pdf
+findings: /assets/publication/Sonia - examination findings.pdf
+lejog: /assets/publication/LEJOG.pdf
+doctors-word: /assets/publication/Sonia - mapping the doctor's words.pdf
+transcription: /assets/publication/Sonia - transcription.pdf
 --- 

@@ -11,7 +11,7 @@ youtube:
 patient-script: /assets/publication/
 doctors-note: /assets/publication/
 findings: /assets/publication/
-lejog: /assets/publication/
+lejog: /assets/publication//assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/
 transcription: /assets/publication/
 --- 

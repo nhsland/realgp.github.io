@@ -11,7 +11,7 @@ youtube:
 patient-script: /assets/publication/Duncan - Patient.pdf
 doctors-note: /assets/publication/Duncan - Doctor.pdf
 findings: /assets/publication/Duncan - examination findings.pdf
-lejog: 
+lejog: /assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/Duncan - mapping the doctor's words.pdf
 transcription: /assets/publication/Duncan - transcription.pdf
 --- 

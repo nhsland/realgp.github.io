@@ -11,7 +11,7 @@ youtube: https://youtu.be/eRHb5quBTOA
 patient-script: /assets/publication/Erica - Patient.pdf
 doctors-note: /assets/publication/Erica - Doctor.pdf
 findings: /assets/publication/Erica - Examination findings.pdf
-lejog: 
+lejog: /assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/Erica - mapping the doctor's words.pdf
 transcription: /assets/publication/Erica - transcription.pdf
 --- 

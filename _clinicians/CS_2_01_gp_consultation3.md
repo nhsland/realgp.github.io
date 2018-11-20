@@ -11,7 +11,7 @@ youtube:
 patient-script: /assets/publication/Astrid - Patient.pdf
 doctors-note: /assets/publication/Astrid - Doctor.pdf
 findings: /assets/publication/Astrid - examination findings.pdf
-lejog: 
+lejog: /assets/publication/LEJOG.pdf
 doctors-word: /assets/publication/Astrid - mapping the doctor's words.pdf
 transcription: /assets/publication/Astrid - transcription.pdf
 ---  
