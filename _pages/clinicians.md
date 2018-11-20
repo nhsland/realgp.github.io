@@ -38,7 +38,9 @@ title:  "Clinicians"
                 <center><h1>How to use our resources</h1>
                 <p>Choose the role or roles that apply to you and read or listen to the information provided</p></center>
                 <hr class="my-4">
-                <div class="col-lg-12"><br><br>
+                <div class="col-lg-12">
+                <br>
+                <br>
   	                <div style="overflow-x:auto;">	
                         <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
                      <thead>
@@ -85,6 +87,7 @@ title:  "Clinicians"
             </table>
         </div> 
             </div>
+                </div>
                 </div>
 </section> 
 
