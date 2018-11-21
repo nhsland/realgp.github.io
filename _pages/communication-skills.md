@@ -48,19 +48,19 @@ description: Communication skills learning
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.audio == null %}
                 {% else %}
-                <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="80%"></a>
+                <a href="{{ clinician.audio }}" target="_blank"><img src="/img/itunes.png" width="23px"></a>
                 {% endif %}
                 {% if clinician.article == null %}
                 {% else %}
-                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="80%"></a>
+                <a href="{{ clinician.article }}" target="_blank"><img src="/img/note.png" width="23px"></a>
                 {% endif %}
-                {% if clinician.www == null %}
+                {% if clinician.map == null %}
                 {% else %}
-                <a href="{{ clinician.www }}" target="_blank"><img src="/img/globe.png" width="80%"></a>
+                <a href="{{ clinician.www }}" target="_blank"><img src="/img/map.png" width="23px"></a>
                 {% endif %} 
-                {% if clinician.youtube ==null %}
+                {% if clinician.ljog ==null %}
                 {% else %}
-                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="80%"></a>
+                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/LJOG.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <td>{{ clinician.keywords }}</td>
