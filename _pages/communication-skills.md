@@ -56,7 +56,7 @@ description: Communication skills learning
                 {% endif %}
                 {% if clinician.map == null %}
                 {% else %}
-                <a href="{{ clinician.www }}" target="_blank"><img src="/img/map.png" width="23px"></a>
+                <a href="{{ clinician.map }}" target="_blank"><img src="/img/map.png" width="23px"></a>
                 {% endif %} 
                 {% if clinician.ljog ==null %}
                 {% else %}
