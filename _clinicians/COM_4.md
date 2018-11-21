@@ -8,7 +8,7 @@ audio: /assets/audio/map/Consultation Workshop - Consultation Workshop - 4 How t
 article: 
 map:
 ljog:  /assets/publication/LEJOG.pdf
-keywords: LEJOG, map of the consultation, Lands End to
+keywords: LEJOG, map of the consultation, Lands End 
 John O’Groats, Keith Birrell
 youtube: 
 --- 

@@ -8,6 +8,6 @@ audio: /assets/audio/map/Consultation Workshop - 3 Making the flexible 10 point 
 article: 
 map:
 ljog:  /assets/publication/LEJOG.pdf
-keywords: LEJOG, map of the consultation, Lands End to John O’Groats, Keith Birrell
+keywords: LEJOG, map of the consultation, Lands End John O’Groats, Keith Birrell
 youtube: 
 --- 
