@@ -32,7 +32,7 @@ description: Communication skills learning
                 <th>Category</th>
                 <th>Title</th>
                 <th>Description</th>
-                <th>Link</th>
+                <th>Associated Files</th>
                 <th>Key Words</th>
             </tr>
         </thead>
@@ -60,7 +60,11 @@ description: Communication skills learning
                 {% endif %} 
                 {% if clinician.ljog ==null %}
                 {% else %}
-                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/LJOG.png" width="23px"></a>
+                <a href="{{ clinician.ljog }}" target="_blank"><img src="/img/LJOG.png" width="23px"></a>
+                {% endif %}
+                 {% if clinician.youtube ==null %}
+                {% else %}
+                <a href="{{ clinician.youtube }}" target="_blank"><img src="/img/video.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <td>{{ clinician.keywords }}</td>
