@@ -91,21 +91,21 @@ description: Real role play scenarios for your clinical skills assessment study 
                  <td style="text-align:center; vertical-align:middle">
                 {% if clinician.findings == null %}
                 {% else %}
-                <a href="{{ clinician.findings }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.findings }}" target="_blank"><img src="/img/question.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <!--LEJOG map-->
                  <td style="text-align:center; vertical-align:middle">
                 {% if clinician.lejog == null %}
                 {% else %}
-                <a href="{{ clinician.lejog }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.lejog }}" target="_blank"><img src="/img/LJOG.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <!--Mapping the doctors word-->
                  <td style="text-align:center; vertical-align:middle">
                 {% if clinician.doctors-word == null %}
                 {% else %}
-                <a href="{{ clinician.doctors-word }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.doctors-word }}" target="_blank"><img src="/img/map.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <!--Transcription-->
