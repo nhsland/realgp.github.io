@@ -77,14 +77,14 @@ description: Real role play scenarios for your clinical skills assessment study 
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.patient-script == null %}
                 {% else %}
-                <a href="{{ clinician.patient-script }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.patient-script }}" target="_blank"><img src="/img/people.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <!--Doctors Note-->
                 <td style="text-align:center; vertical-align:middle">
                 {% if clinician.doctors-note == null %}
                 {% else %}
-                <a href="{{ clinician.doctors-note }}" target="_blank"><img src="/img/note.png" width="23px"></a>
+                <a href="{{ clinician.doctors-note }}" target="_blank"><img src="/img/clinician.png" width="23px"></a>
                 {% endif %}
                 </td>
                 <!--Examination Findings-->
