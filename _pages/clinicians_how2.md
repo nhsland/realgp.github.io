@@ -18,11 +18,16 @@ title:  "Clinicians - How to use our resources"
 
 <section id="clinician">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-12"><br><br>
-  	        <div style="overflow-x:auto;">	
-                <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
-                    <thead>
+            <div class="row">
+                <center><h1>How to use our resources</h1>
+                <p>Choose the role or roles that apply to you and read or listen to the information provided</p></center>
+                <hr class="my-4">
+                <div class="col-lg-12">
+                <br>
+                <br>
+  	                <div style="overflow-x:auto;">	
+                        <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
+                     <thead>
                         <tr>
                             <th>Role</th>
                             <th>Title</th>
@@ -30,9 +35,9 @@ title:  "Clinicians - How to use our resources"
                             <th>Link</th>
                             <th>Key Words</th>
                         </tr>
-                    </thead>
-                    <tbody>
-                    {% for clinician in site.clinicians %}
+                        </thead>
+                        <tbody>
+                        {% for clinician in site.clinicians %}
                         {% if clinician.area contains page.title %}
                         <tr>
                             <td style="text-align:left; vertical-align:middle">
@@ -65,9 +70,9 @@ title:  "Clinicians - How to use our resources"
                 </tbody>
             </table>
         </div> 
-        </div>
-	    </div>
-	 </div>
-</section>
+            </div>
+                </div>
+                </div>
+</section> 
 
 
