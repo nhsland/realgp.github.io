@@ -27,7 +27,6 @@ title:  "Clinicians"
             <li align="left"> 3. Shared decision options. These are extended option discussions with patients with specific conditions. These recordings are suitable for GPs and patients alike</li>
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul>
-          <br><br> 
         </div>
     </div>
 </section>
