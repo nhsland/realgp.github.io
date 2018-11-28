@@ -20,7 +20,7 @@ title:  "Clinicians - How to use our resources"
       <div class="container">
             <div class="row">
                 <center><h1>Choose the role or roles that apply to you</h1>
-                <p>Listen or read the information provided</p></center>
+                <p>Listen to or read the information provided</p></center>
                 <hr class="my-4">
                 <div class="col-lg-12">
                 <br>
