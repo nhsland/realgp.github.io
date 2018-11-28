@@ -33,12 +33,12 @@ title:  "Clinicians"
 </section>
 
 <section id="services">
-        <div class="container">
+     <div class="container">
             <div class="row">
                 <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
-                          <a href="{{ '/clinicians_how2' }}"><img src="/img/clinician1.png" alt="">
+                            <a href="{{ '/clinicians_how2' }}"><img src="/img/clinician1.png" alt="">
                         </div>
                         <h2>How to use our resources</h2>
                         <p>Access our guides to each role and area</p></a>
@@ -48,7 +48,7 @@ title:  "Clinicians"
         </div>
 </section>
 
-<section id="clinician">
+<!--<section id="clinician">
       <div class="container">
             <div class="row">
                 <center><h1>How to use our resources</h1>
@@ -105,7 +105,7 @@ title:  "Clinicians"
             </div>
                 </div>
                 </div>
-</section> 
+</section> -->
 
 <section id="services">
         <div class="container">
