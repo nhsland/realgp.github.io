@@ -7,7 +7,6 @@ audio: /assets/audio/map/Map of the Consultation Workshop - 13 Spectrum of promp
 article: 
 map:
 ljog:  
-keywords: spectrum of prompts, echoes, Colombo
-technique, Malcolm Thomas
+keywords: spectrum of prompts, echoes, Colombo technique, Malcolm Thomas
 youtube: 
 --- 
