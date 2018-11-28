@@ -73,9 +73,7 @@ description: Communication skills learning
         {% endfor %}
     </tbody>
 </table>
-</div>
-
-        
+</div>       
       </div>
 	  </div>
 	  </div>

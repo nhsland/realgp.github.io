@@ -39,9 +39,9 @@ title:  "Clinicians"
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
                             <a href="{{ '/clinicians_how2' }}"><img src="/img/Clinician1.png" alt="">
-                        </div>
                         <h2>How to use our resources</h2>
                         <p>Access our guides to each role and area</p></a>
+                        </div>
                 </div>
             </div>
         </div>
