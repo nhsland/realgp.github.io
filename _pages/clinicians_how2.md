@@ -10,6 +10,7 @@ title:  "Clinicians - How to use our resources"
                 <div class="row">
                     <div class="action take-tour">
                             <center><h1 class="title">{{ page.title }}</h1></center>
+                            <p>Choose the role or roles that apply to you</p>
                     </div>
                 </div>
             </div>
@@ -19,12 +20,12 @@ title:  "Clinicians - How to use our resources"
 <section id="clinician">
       <div class="container">
             <div class="row">
-                <center><h1>Choose the role or roles that apply to you</h1>
-                <p>Listen to or read the information provided</p></center>
+                <!--<center><h1>Choose the role or roles that apply to you</h1>
+                <p>Listen to or read the information provided</p></center>-->
                 <hr class="my-4">
                 <div class="col-lg-12">
-                <br>
-                <br>
+                <!--<br>
+                <br>-->
   	                <div style="overflow-x:auto;">	
                         <table id="project" class="table table-striped table-bordered display responsive no-wrap" style="width:100%">
                      <thead>
