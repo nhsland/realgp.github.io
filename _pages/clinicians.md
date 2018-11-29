@@ -5,7 +5,7 @@ title:  "Clinicians"
 ---
 <section id="action" class="responsive">
         <div class="vertical-center">
-             <div class="container">
+            <div class="container">
                 <div class="row">
                     <div class="action take-tour">
                             <center><h1 class="title">Clinician Resources</h1>
