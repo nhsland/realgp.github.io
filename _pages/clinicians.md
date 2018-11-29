@@ -19,6 +19,8 @@ title:  "Clinicians"
 <section id="services">
         <div class="container">
             <div class="row">
+             <div class="col-md-6">
+        
 <p align="left">Real general practice is designed to help you to acquire the skills and knowledge necessary for you to pass the clinical skills assessment exam. It will demonstrate to you: how busy GPs incorporate up-to-date knowledge and evidence based, patient-centred practice into their consultations. CSA candidates and medical students will often prefer to use our material in study groups, with or without the support of a trainer. Busy GPs can bring themselves up-to-date listening to audio material on their smart phones wherever and whenever they feel so inclined.</p>
         <p align="left">This course consists of 4 groups of educational material</p>
         <ul align="left">
@@ -28,14 +30,10 @@ title:  "Clinicians"
              <li align="left">4. Consultations with patients with problems from all of the GP curriculum areas. This allows you to be comprehensive in your learning. And to tick some boxes in your e-portfolio.</li>
           </ul>
           <br><br> 
-        </div>
-    </div>
-</section>
-
-<section id="help">
-     <div class="container">
-            <div class="row">
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+          </div>
+          <div class="col-md-6">
+        <div class="row">
+          <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                     <div class="single-service">
                         <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
                             <a href="{{ '/clinicians_how2' }}"><img src="/img/Clinician1.png" alt="">
@@ -44,9 +42,11 @@ title:  "Clinicians"
                         </div>
                 </div>
             </div>
+            </div>
         </div>
     </div>
 </section>
+
 
 <!--<section id="clinician">
       <div class="container">
