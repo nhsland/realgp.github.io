@@ -1,7 +1,7 @@
 ---
 category: Insomnia
 title: Epworth Sleepiness Scale
-description: The Epworth Sleepiness Scale (ESS) is a scale intended to measure daytime sleepiness that is measured by use of a very short questionnaire. This can be helpful in diagnosing sleep disorders. It was introduced in 1991 by Dr Murray Johns of Epworth Hospital in Melbourne, Australia.
+description: The Epworth Sleepiness Scale (ESS) is a scale to measure daytime sleepiness using a very short questionnaire. This can be helpful in diagnosing sleep apnoea. It was introduced in 1991 by Dr Murray Johns of Epworth Hospital in Melbourne, Australia.
 audio: 
 page: 
 article: 

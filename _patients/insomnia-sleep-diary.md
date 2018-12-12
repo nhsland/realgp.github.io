@@ -1,7 +1,7 @@
 ---
 category: Insomnia
 title: Sleep Diary
-description: The Sleep Diary is useful when a more comprehensive assessment is required. Generally, people include the Sleep Diary as part of their daily routine. The times that are written down need only be estimated. 
+description: The Sleep Diary is useful when a more comprehensive assessment is required. The times that are written down need only be estimated. 
 audio: 
 article: 
 www: http://www.herringtonmc.nhs.uk/wp-content/uploads/2017/12/Sleep-Diary.pdf
